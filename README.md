@@ -1,2 +1,2 @@
 # Pose-Estimation
-Pose Estimation (Poz Kestrimi)
+Pose Estimation (Poz Kestrimi) Projesi
